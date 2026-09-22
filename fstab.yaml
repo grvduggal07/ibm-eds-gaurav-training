@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34583-e1771246.adobeaemcloud.com/bin/franklin.delivery/grvduggal07/ibm-eds-gaurav-training/main"
+    url: "https://author-p34583-e1771246.adobeaemcloud.com/bin/franklin.delivery/grvduggal07/ibm-eds-gaurav-training/teaser"
     type: "markup"
     suffix: ".html"
