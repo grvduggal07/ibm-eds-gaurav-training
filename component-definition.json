@@ -158,7 +158,7 @@
           }
         },
         {
-          "title": "Teaser1",
+          "title": "Teaser",
           "id": "teaser",
           "plugins": {
             "xwalk": {

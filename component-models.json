@@ -226,7 +226,12 @@
   {
     "id": "teaser",
     "fields": [
-      "... what fields will be available in Universal Editor ..."
+      {
+        "component": "text",
+        "name": "text",
+        "label": "Text",
+        "valueType": "string"
+      }
     ]
   }
 ]

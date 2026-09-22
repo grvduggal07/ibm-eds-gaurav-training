@@ -16,8 +16,15 @@
   }],
   "models": [
       {
-          "id": "teaser", 
-          "fields": ["... what fields will be available in Universal Editor ..."]
+          "id": "teaser",
+          "fields": [
+              {
+                  "component": "text",
+                  "name": "text",
+                  "label": "Text",
+                  "valueType": "string"
+              }
+          ]
       }
   ],
   "filters": []
